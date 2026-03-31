@@ -38,5 +38,8 @@ Students are asked to implement a resizable adjacency matrix for an undirected g
 * Compile: javac Driver.java
 * Run: java Driver
 
+## Example
+<img width="350" height="370" alt="image" src="https://github.com/user-attachments/assets/d84de6d3-7a4d-46a0-bf21-534f52cee74f" />
+
 ### ⚠️ Academic Integrity
 This repository is intended for professional reference only. Students are expected to complete the implementation based on the description from the official course website.
